@@ -1,0 +1,10 @@
+C:\Users\kollaea\Source\Repos\StockBrowser\StockBrowser\bin\Debug\StockBrowser.exe.config
+C:\Users\kollaea\Source\Repos\StockBrowser\StockBrowser\bin\Debug\StockBrowser.exe
+C:\Users\kollaea\Source\Repos\StockBrowser\StockBrowser\bin\Debug\StockBrowser.pdb
+C:\Users\kollaea\Source\Repos\StockBrowser\StockBrowser\obj\Debug\StockBrowser.Form1.resources
+C:\Users\kollaea\Source\Repos\StockBrowser\StockBrowser\obj\Debug\StockBrowser.Properties.Resources.resources
+C:\Users\kollaea\Source\Repos\StockBrowser\StockBrowser\obj\Debug\StockBrowser.csproj.GenerateResource.cache
+C:\Users\kollaea\Source\Repos\StockBrowser\StockBrowser\obj\Debug\StockBrowser.csproj.CoreCompileInputs.cache
+C:\Users\kollaea\Source\Repos\StockBrowser\StockBrowser\obj\Debug\StockBrowser.exe
+C:\Users\kollaea\Source\Repos\StockBrowser\StockBrowser\obj\Debug\StockBrowser.pdb
+C:\Users\kollaea\Source\Repos\StockBrowser\StockBrowser\obj\Debug\StockBrowser.csprojAssemblyReference.cache

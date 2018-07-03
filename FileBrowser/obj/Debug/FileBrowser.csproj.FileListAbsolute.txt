@@ -1,0 +1,9 @@
+C:\Users\kollaea\Source\Repos\FileBrowser_src\FileBrowser\bin\Debug\FileBrowser.dll
+C:\Users\kollaea\Source\Repos\FileBrowser_src\FileBrowser\bin\Debug\FileBrowser.pdb
+C:\Users\kollaea\Source\Repos\FileBrowser_src\FileBrowser\obj\Debug\FileBrowser.csprojAssemblyReference.cache
+C:\Users\kollaea\Source\Repos\FileBrowser_src\FileBrowser\obj\Debug\FileBrowser.Browser.resources
+C:\Users\kollaea\Source\Repos\FileBrowser_src\FileBrowser\obj\Debug\FileBrowser.Properties.Resources.resources
+C:\Users\kollaea\Source\Repos\FileBrowser_src\FileBrowser\obj\Debug\FileBrowser.csproj.GenerateResource.cache
+C:\Users\kollaea\Source\Repos\FileBrowser_src\FileBrowser\obj\Debug\FileBrowser.csproj.CoreCompileInputs.cache
+C:\Users\kollaea\Source\Repos\FileBrowser_src\FileBrowser\obj\Debug\FileBrowser.dll
+C:\Users\kollaea\Source\Repos\FileBrowser_src\FileBrowser\obj\Debug\FileBrowser.pdb

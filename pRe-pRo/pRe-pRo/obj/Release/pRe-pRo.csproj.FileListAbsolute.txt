@@ -1,0 +1,14 @@
+c:\users\kollaea\Source\Repos\pRe-pRo\pRe-pRo\bin\Release\pRe-pRo.exe.config
+c:\users\kollaea\Source\Repos\pRe-pRo\pRe-pRo\bin\Release\pRe-pRo.exe.manifest
+c:\users\kollaea\Source\Repos\pRe-pRo\pRe-pRo\bin\Release\pRe-pRo.application
+c:\users\kollaea\Source\Repos\pRe-pRo\pRe-pRo\bin\Release\pRe-pRo.exe
+c:\users\kollaea\Source\Repos\pRe-pRo\pRe-pRo\bin\Release\pRe-pRo.pdb
+c:\users\kollaea\Source\Repos\pRe-pRo\pRe-pRo\obj\Release\pRe_pRo.Form1.resources
+c:\users\kollaea\Source\Repos\pRe-pRo\pRe-pRo\obj\Release\pRe_pRo.Properties.Resources.resources
+c:\users\kollaea\Source\Repos\pRe-pRo\pRe-pRo\obj\Release\pRe-pRo.csproj.GenerateResource.cache
+c:\users\kollaea\Source\Repos\pRe-pRo\pRe-pRo\obj\Release\pRe-pRo.csproj.CoreCompileInputs.cache
+c:\users\kollaea\Source\Repos\pRe-pRo\pRe-pRo\obj\Release\pRe-pRo.exe.manifest
+c:\users\kollaea\Source\Repos\pRe-pRo\pRe-pRo\obj\Release\pRe-pRo.application
+c:\users\kollaea\Source\Repos\pRe-pRo\pRe-pRo\obj\Release\pRe-pRo.exe
+c:\users\kollaea\Source\Repos\pRe-pRo\pRe-pRo\obj\Release\pRe-pRo.pdb
+c:\users\kollaea\Source\Repos\pRe-pRo\pRe-pRo\obj\Release\pRe-pRo.csprojResolveAssemblyReference.cache

@@ -1,0 +1,10 @@
+c:\users\kollaea\Source\Repos\Arconic Budget Simulator\Arconic Budget Simulator\obj\Debug\Arconic Budget Simulator.csprojAssemblyReference.cache
+c:\users\kollaea\Source\Repos\Arconic Budget Simulator\Arconic Budget Simulator\obj\Debug\Arconic_Budget_Simulator.Properties.Resources.resources
+c:\users\kollaea\Source\Repos\Arconic Budget Simulator\Arconic Budget Simulator\obj\Debug\Arconic Budget Simulator.csproj.GenerateResource.cache
+c:\users\kollaea\Source\Repos\Arconic Budget Simulator\Arconic Budget Simulator\obj\Debug\Arconic Budget Simulator.csproj.CoreCompileInputs.cache
+c:\users\kollaea\Source\Repos\Arconic Budget Simulator\Arconic Budget Simulator\bin\Debug\Arconic Budget Simulator.exe.config
+c:\users\kollaea\Source\Repos\Arconic Budget Simulator\Arconic Budget Simulator\bin\Debug\Arconic Budget Simulator.exe
+c:\users\kollaea\Source\Repos\Arconic Budget Simulator\Arconic Budget Simulator\bin\Debug\Arconic Budget Simulator.pdb
+c:\users\kollaea\Source\Repos\Arconic Budget Simulator\Arconic Budget Simulator\obj\Debug\Arconic_Budget_Simulator.Form1.resources
+c:\users\kollaea\Source\Repos\Arconic Budget Simulator\Arconic Budget Simulator\obj\Debug\Arconic Budget Simulator.exe
+c:\users\kollaea\Source\Repos\Arconic Budget Simulator\Arconic Budget Simulator\obj\Debug\Arconic Budget Simulator.pdb

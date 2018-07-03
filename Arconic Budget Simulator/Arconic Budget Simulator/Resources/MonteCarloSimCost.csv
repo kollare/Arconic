@@ -1,0 +1,27 @@
+ELEMENT,TARGET,PROB,LOW,HIGH
+Finish Heat Treat Furnace,7201,5,7200,11200
+Post Argon Reclaim Vessel Sys,585,25,500,1000
+Wax pattern press 300 T,501,50,500,700
+cast preheat Ovens,3001,50,3000,4000
+Cast Casting Cooling Ovens,1001,50,1000,1500
+Post Vibratory Media Machine,300,50,200,500
+Post HIP Unit (in Bunker),10245,60,9000,12000
+VDT Semi Auto FPI,950,60,900,1800
+Cast Insulation Robot Spray,563,70,422,704
+NDT Auto Welder,420,75,378,450
+Shell M-Tech,15279,80,13751,16807
+Cast sys No maipulators,11685,80,10600,12500
+Post Water Blast Shell Removal,2115,80,2100,2400
+Wax pattern Press 100 T,900,85,750,1000
+Wax Gate Press 10 T,401,85,400,500
+Cast Dewax Oven,1500,85,1200,1600
+Cast Autoclave,1000,85,900,1100
+Post Auto Waterjet Cutoff,1760,85,1500,2000
+Cast Cast Sys Manipulator,720,90,600,800
+Finish Autoclave,2500,90,1200,2501
+Finish Salt Bath Lo Temp Caustic,400,90,300,450
+Bldg Equipment Allotment,1150,90,750,1151
+Cast Insulation Robot Spray Fixt,360,95,292,361
+Finish Auto Sand Blast,800,95,600,801
+Finish Auro Sand blast,800,95,600,801
+Other,4195,100,4195,4195

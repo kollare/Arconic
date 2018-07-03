@@ -1,0 +1,10 @@
+C:\Users\kollaea\Source\Repos\parcelPost\parcelPost\bin\Debug\parcelPost.exe.config
+C:\Users\kollaea\Source\Repos\parcelPost\parcelPost\bin\Debug\parcelPost.exe
+C:\Users\kollaea\Source\Repos\parcelPost\parcelPost\bin\Debug\parcelPost.pdb
+C:\Users\kollaea\Source\Repos\parcelPost\parcelPost\obj\Debug\parcelPost.csprojResolveAssemblyReference.cache
+C:\Users\kollaea\Source\Repos\parcelPost\parcelPost\obj\Debug\parcelPost.Properties.Resources.resources
+C:\Users\kollaea\Source\Repos\parcelPost\parcelPost\obj\Debug\parcelPost.csproj.GenerateResource.cache
+C:\Users\kollaea\Source\Repos\parcelPost\parcelPost\obj\Debug\parcelPost.csproj.CoreCompileInputs.cache
+C:\Users\kollaea\Source\Repos\parcelPost\parcelPost\obj\Debug\parcelPost.exe
+C:\Users\kollaea\Source\Repos\parcelPost\parcelPost\obj\Debug\parcelPost.pdb
+C:\Users\kollaea\Source\Repos\parcelPost\parcelPost\obj\Debug\parcelPost.Form1.resources
