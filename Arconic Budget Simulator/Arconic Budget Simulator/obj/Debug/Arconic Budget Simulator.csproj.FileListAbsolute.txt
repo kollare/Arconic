@@ -8,3 +8,9 @@ c:\users\kollaea\Source\Repos\Arconic Budget Simulator\Arconic Budget Simulator\
 c:\users\kollaea\Source\Repos\Arconic Budget Simulator\Arconic Budget Simulator\obj\Debug\Arconic_Budget_Simulator.Form1.resources
 c:\users\kollaea\Source\Repos\Arconic Budget Simulator\Arconic Budget Simulator\obj\Debug\Arconic Budget Simulator.exe
 c:\users\kollaea\Source\Repos\Arconic Budget Simulator\Arconic Budget Simulator\obj\Debug\Arconic Budget Simulator.pdb
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\bin\Debug\AutoClosingMessageBox.dll
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\obj\Debug\Arconic Budget Simulator.csproj.CopyComplete
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\bin\Debug\Arconic Budget Simulator.exe.manifest
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\bin\Debug\Arconic Budget Simulator.application
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\obj\Debug\Arconic Budget Simulator.exe.manifest
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\obj\Debug\Arconic Budget Simulator.application

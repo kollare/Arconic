@@ -1,0 +1,79 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+	<head>
+		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+		<title>News Ticker</title>
+		<link rel="stylesheet" type="text/css" href="Ticker.css">
+	</head>
+	<body>
+		<dl id="ticker">
+			<dt>This is a news title!</dt><dd>This is a snippet of the news. It could be the whole news item or it could link to another page containing...</dd>
+			<dt>Did You Know?</dt><dd>Ed is a programmer!</dd>
+			<dt>Did You Know?</dt><dd>Ford is THE world's leading automotive company of the future!</dd>
+			<dt>Did You Know?</dt><dd>Haneen once led a team of whirly ballers to the Olympics!</dd>
+			<dt class="heading">This item is long!</dt><dd class="text">FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD, FORD</dd>    
+		</dl>
+		<script type="text/javascript" src="jquery-3.3.1.min.js"></script>
+		<script type="text/javascript">
+			$(function() {
+				
+				//cache the ticker
+				var ticker = $("#ticker");
+				
+				//wrap dt:dd pairs in divs
+				ticker.children().filter("dt").each(function() {
+					
+					var dt = $(this),
+					container = $("<div>");
+					
+					dt.next().appendTo(container);
+					dt.prependTo(container);          
+					container.appendTo(ticker);
+				});
+				
+				//hide the scrollbar
+				ticker.css("overflow", "hidden");
+				
+				//animator function
+				function animator(currentItem) {
+					
+					//work out new anim duration
+					var distance = currentItem.height(),
+					///var distance = currentItem.width(),
+					duration = (distance - Math.abs(parseInt(currentItem.css("marginTop")))) / 0.025;
+					///duration = (distance - Math.abs(parseInt(currentItem.css("marginLeft"))) / 0.025;
+					
+					//animate the first child of the ticker
+					currentItem.animate({ marginTop: -distance }, duration, "linear", function() {
+					///currentItem.animate({ marginLeft: -distance }, duration, "linear", function() {
+						
+						//move current item to the bottom     
+						currentItem.appendTo(currentItem.parent()).css("marginTop", 0);
+						///currentItem.appendTo(currentItem.parent()).css("marginLeft", 0);
+						
+						//recurse
+						animator(currentItem.parent().children(":first"));
+					}); 
+				};
+				
+				//start the ticker
+				animator(ticker.children(":first"));
+				
+				//set mouseenter
+				ticker.mouseenter(function() {
+					
+					//stop current animation
+					ticker.children().stop();
+					
+				});
+				
+				//set mouseleave
+				ticker.mouseleave(function() {
+					
+					//resume animation
+					animator(ticker.children(":first"));
+				});
+			});
+		</script>
+	</body>
+</html>

@@ -1,0 +1,24 @@
+#ticker { 
+	(max-width: 640px)
+	(min-width: 641px) and (max-width: 800px)
+	(min-width: 801px) and (max-width: 1024px)
+	(min-width: 1025px)
+	//width:780px; height:100px; 
+	overflow:auto; border:1px solid #ffffff;
+}
+#ticker dt {
+	font:normal 16px Georgia; padding:0 10px 5px 10px;
+	background-color:#e5e5e5; padding-top:10px; border:1px solid #ffffff;
+	border-bottom:none; border-right:none;
+}
+#ticker dd {
+	margin-left:0; font:normal 12px Verdana; padding:0 10px 10px 10px;
+	border-bottom:1px solid #aaaaaa; background-color:#e5e5e5;
+	border-left:1px solid #ffffff;
+}
+#ticker dd.last { 
+	border-bottom:1px solid #ffffff;
+}
+#ticker div { 
+	margin-top:0; 
+}

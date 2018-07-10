@@ -1,0 +1,16 @@
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\bin\Release\Arconic Budget Simulator.exe.config
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\bin\Release\Arconic Budget Simulator.exe.manifest
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\bin\Release\Arconic Budget Simulator.application
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\bin\Release\Arconic Budget Simulator.exe
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\bin\Release\Arconic Budget Simulator.pdb
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\bin\Release\AutoClosingMessageBox.dll
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\obj\Release\Arconic_Budget_Simulator.Form1.resources
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\obj\Release\Arconic_Budget_Simulator.Properties.Resources.resources
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\obj\Release\Arconic Budget Simulator.csproj.GenerateResource.cache
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\obj\Release\Arconic Budget Simulator.csproj.CoreCompileInputs.cache
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\obj\Release\Arconic Budget Simulator.exe.manifest
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\obj\Release\Arconic Budget Simulator.application
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\obj\Release\Arconic Budget Simulator.csproj.CopyComplete
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\obj\Release\Arconic Budget Simulator.exe
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\obj\Release\Arconic Budget Simulator.pdb
+C:\Users\kollaea\Source\Repos\Arconic Budget SimulatoR\Arconic Budget Simulator\obj\Release\Arconic Budget Simulator.csprojAssemblyReference.cache

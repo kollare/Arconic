@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="Arconic Budget Simulator.exe" version="1.0.0.0" publicKeyToken="27a1468c9bd7fb7d" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="arconic_logo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="Arconic Budget Simulator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="Arconic Budget Simulator.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Arconic Budget Simulator.exe" size="180688">
+      <assemblyIdentity name="Arconic Budget Simulator" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>G/lR1kX2VVncS0Q6T6qbF75K+ONoKq4vIuNQLT/hX5o=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="AutoClosingMessageBox.dll" size="8704">
+      <assemblyIdentity name="AutoClosingMessageBox" version="1.0.0.2" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>j5TyS2wInIas+5TFkoIHMbbzA6aU2KqYQHE1JS9NHiA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Arconic Budget Simulator.exe.config" size="189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>rl5/qDc7Jz+tB+BIbOv9iMGPlRe6YJwrjmU09dnlPcs=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="arconic_logo.ico" size="34225">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>RBMFQF6HWWIhzTg4GeHaEjKhQx6Z2moQ8GsWe81zetI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Properties\arconic_logo.ico" size="34225">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>RBMFQF6HWWIhzTg4GeHaEjKhQx6Z2moQ8GsWe81zetI=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Resources\arconic_logo.ico" size="34225">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>RBMFQF6HWWIhzTg4GeHaEjKhQx6Z2moQ8GsWe81zetI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=VALUEADDCO\kollaea" issuerKeyHash="3e9909b1a720de100cc5ba973a992334552e22a2" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>DVU9CAytz6qk/Yr1bmuw28ScV5vSAZoC+shjhqrzCLw=</DigestValue></Reference></SignedInfo><SignatureValue>TIiTvPn5iiwUAylVa3uCcHt45x4xzcJmIxncKdmFXMflG3ei+5weeHDvdraTI75xHo41Y8RYLtF3w8Kak0NJqtzdPccmCWhdOJE5osf0VlASMBRGo+NuUQrTsmAKe3W+dn545MTotGidPrGWtHxD5ROigSnCw5VdvLibLVm+8nk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vY9qJejGQlw+0iVdb7oQoJXmqFdFFBl/trIC5DIDpOGbfXk2EmfP89i9mDl6rs8jWe3iMDPiKoEtsmV24YBre9sk7RlXyP6XCAv/q1ZPZjWB+u8qoyzu9jqeHmEph8Tvla8urTu3TQJtx84O4yAarzmMcgzLqL5Wa7L+m42G4m0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="bc08f3aa8663c8fa029a01d29b579cc4dbb06b6ef58afda4aacfad0c083d550d" Description="" Url=""><as:assemblyIdentity name="Arconic Budget Simulator.exe" version="1.0.0.0" publicKeyToken="27a1468c9bd7fb7d" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=VALUEADDCO\kollaea</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>/4YSxXV1THJeBasvZ9eoXdazcLtcv7JwNqDb1J3IHnQ=</DigestValue></Reference></SignedInfo><SignatureValue>AroZVRbf2oATnTit8VdAJftyyU7S8357EKtnVzF7XPQsAmGowyWVTuuCJ5Q9zcSHWgYv7eWsvGVKEKjzXVEhuescJh0yekRDLdgnO6qo6fwgy3BbFWw+8+R+aPEsz52vbPFhr8fn2CBjmUMRz27yDFelJz7m09xaQ3O1n3Xit2Y=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vY9qJejGQlw+0iVdb7oQoJXmqFdFFBl/trIC5DIDpOGbfXk2EmfP89i9mDl6rs8jWe3iMDPiKoEtsmV24YBre9sk7RlXyP6XCAv/q1ZPZjWB+u8qoyzu9jqeHmEph8Tvla8urTu3TQJtx84O4yAarzmMcgzLqL5Wa7L+m42G4m0=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB4TCCAUqgAwIBAgIQd9Vk5WgmYZBJgaEqk/ZODTANBgkqhkiG9w0BAQsFADAvMS0wKwYDVQQDHiQAVgBBAEwAVQBFAEEARABEAEMATwBcAGsAbwBsAGwAYQBlAGEwHhcNMTgwNzA2MTUyMDExWhcNMTkwNzA2MjEyMDExWjAvMS0wKwYDVQQDHiQAVgBBAEwAVQBFAEEARABEAEMATwBcAGsAbwBsAGwAYQBlAGEwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBAL2PaiXoxkJcPtIlXW+6EKCV5qhXRRQZf7ayAuQyA6Thm315NhJnz/PYvZg5eq7PI1nt4jAz4iqBLbJlduGAa3vbJO0ZV8j+lwgL/6tWT2Y1gfrvKqMs7vY6nh5hKYfE75WvLq07t00CbcfODuMgGq85jHIMy6i+Vmuy/puNhuJtAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAU1vQ7TpT4VH3d/HsZtN/XJRxxtlhXGhZNwUusqOVMk4HcMGkuVx5coGH7xQa4x+3HO/uHMiUAY2GXgqA3fMWRBMIAY86jB24aGCmLcc3NHc8OKKmKxbN+uu61jQJHR3ZK68NCPs9q8tBap1uwQoy+z7twe4EOa0SiAG4uvBhu14=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
